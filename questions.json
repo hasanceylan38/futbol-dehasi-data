@@ -16,17 +16,6 @@
                     "answer_index": 0
                 },
                 {
-                    "id": "t239",
-                    "question": "Zlatan Ibrahimovic, 2009'da Inter'den Barcelona'ya transfer olurken; Barcelona takas olarak Inter'e kimi verdi?",
-                    "options": [
-                        "Samuel Eto'o",
-                        "Thiago Motta",
-                        "Wesley Sneijder",
-                        "Sadece Para"
-                    ],
-                    "answer_index": 0
-                },
-                {
                     "id": "t2",
                     "question": "Luis Figo'nun Barcelona'dan Real Madrid'e olaylı transferi hangi yıl gerçekleşti?",
                     "options": [
@@ -20451,4 +20440,5 @@
     ]
 
 }
+
 
